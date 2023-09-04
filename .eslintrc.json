@@ -12,6 +12,9 @@
         "quotes": ["error", "double"],
         "no-underscore-dangle": ["off"],
         "comma-dangle": ["off"],
-        "import/no-extraneous-dependencies": ["off"]
+        "import/no-extraneous-dependencies": ["off"],
+        "operator-linebreak": ["off"],
+        "implicit-arrow-linebreak": ["off"],
+        "object-curly-newline": ["off"]
     }
 }
